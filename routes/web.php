@@ -18,5 +18,7 @@ Route::get('/', function () {
     return 'abhishek';
     return 'abhi';
     return 'hi';
+    return 'data';
+
 
 });
