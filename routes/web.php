@@ -19,6 +19,7 @@ Route::get('/', function () {
     return 'abhi';
     return 'hi';
     return 'data';
+    return 'data';
 
 
 });
