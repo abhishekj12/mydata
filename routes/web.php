@@ -15,11 +15,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     // return view('welcome');
-<<<<<<< HEAD
-    return 'abhishek';
-=======
-    return 'abhishek joshi';
->>>>>>> 66d45f7 (my six commit)
+    return 'abhishekdjkfklfsfllslfsl';
     return 'abhi';
     return 'hi';
     return 'data';
