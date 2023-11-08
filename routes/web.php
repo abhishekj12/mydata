@@ -15,7 +15,11 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     // return view('welcome');
+<<<<<<< Updated upstream
     return 'abhisheka';
+=======
+    return 'abhishedwsdsd;lkds;dg';
+>>>>>>> Stashed changes
     return 'abhi';
     return 'hi';
     return 'data';
