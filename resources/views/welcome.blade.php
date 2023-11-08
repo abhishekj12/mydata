@@ -5,6 +5,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>Laravel</title>
+        <title>Hello</title>
+
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
@@ -51,11 +53,8 @@
                                     </svg>
                                 </div>
  <div>my new data</div>
-<<<<<<< Updated upstream
  <div>not </div>
-=======
  <div>my new data</div>
->>>>>>> Stashed changes
 <div>ne wdata </div>
                                 <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Documentation</h2>
 
