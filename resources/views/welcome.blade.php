@@ -51,7 +51,11 @@
                                     </svg>
                                 </div>
  <div>my new data</div>
+<<<<<<< Updated upstream
  <div>not </div>
+=======
+ <div>my new data</div>
+>>>>>>> Stashed changes
 
                                 <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Documentation</h2>
 
